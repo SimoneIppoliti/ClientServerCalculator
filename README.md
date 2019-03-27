@@ -11,12 +11,13 @@ You can set the respective IPs (and ports) in each project's **Program.cs** file
 
 ## How to & functionalities:
 1. Once the server and clients have started, type a command number in the client's console window (it must be a number between 0 and 3, one for each operation) and hit _Enter_:
-    Command | Operation
-    - | -
-    **0** | _Add_
-    **1** | _Subtract_
-    **2** | _Divide_
-    **3** | _Multiply_
+
+Command | Operation
+----- | -----
+**0** | _Add_
+**1** | _Subtract_
+**2** | _Divide_
+**3** | _Multiply_
 
 2. Then type two numbers and hit _Enter_ each time;
 
